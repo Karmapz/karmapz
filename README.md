@@ -3,7 +3,7 @@
 <img align="right" width=300px alt="Unicorn" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXIybzcxMWxqc244cDh5Z3BqMmxlMXUxNm9wam55b2l3cDB0NG5tZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UdD45wK9OfUNW/giphy.webp"/>
 
 
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGltNDN3cXp5azkyZzJzcTZuMno5aXFpajZ1NDV0bzdjNm01ZTVidCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KY2ZMhnCxP008/giphy.gif" width="40px">&nbsp;***About me***
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWl0c3N2bnF0ZWgyYmEybmNiYm9tbTYxZjJpaG54ejdsNXQ5eDVoOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3WYGzcUftn8zK/giphy.webp" width="30px">&nbsp;***About me***
 
 I am a Software Development Technician student, expanding my knowledge in both front-end and back-end development. I love learning and building things that are new, productive, innovative, and creative.
 - 🌱 I’m currently learning ...
